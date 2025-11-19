@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Thực hành nhập môn mạng máy tính - 2025</title>
+</head>
+<body>
+<center><img src="http://www.celuit.edu.vn/sites/default/files/photos/large/202110/kimg0816.jpg"</center>
+<center><h1>MSSV: 24520862</h1></center>
+<center><h2> Họ và tên: Nguyễn Đình Anh Khôi</h2></center>
+</body>
+</html>
